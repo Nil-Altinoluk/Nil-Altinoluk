@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nil-Altinoluk
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+
 - 📫 How to reach me nilaltinoluk@gmail.com
 
 <!---
